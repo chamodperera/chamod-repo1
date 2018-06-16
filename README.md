@@ -1,2 +1,3 @@
 # chamod-repo1
-my repository
+
+I am CHAMOD__Srilankan__An ANANDIAN__Loves ICT
